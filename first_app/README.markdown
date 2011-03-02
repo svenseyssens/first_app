@@ -1,3 +1,10 @@
+# Ruby on Rails Tutorial: first application
+
+This is the first application for sven@seyssens.be.
+Hoping to do some good and see you on www.exits.be
+
+CU guys
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
